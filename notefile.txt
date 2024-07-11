@@ -1,0 +1,9 @@
+Packages that use in this project: 
+===================================
+
+=> npx create-next-app@latest ./
+=> tailwind css
+=> ui.aceternity (npm i framer-motion clsx tailwind-merge)
+=> npm install mini-svg-data-uri
+=> npm install tailwindcss-animate
+=> npm i next-themes (switch dark mode)
